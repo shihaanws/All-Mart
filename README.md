@@ -21,10 +21,9 @@ Tech Stack:
     - React-Router  
     - Context Api  
     - Firebase (Storage & Authentication)
-    - 
-**Make sure you are on the right branch when cloning the repo - If you need phase-1, select phase-1 and do `git clone <branch-repo-url>`**
+    
 
-## Develop in local machine
+## Test locally
 
 ### Clone repository
 
