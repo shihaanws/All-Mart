@@ -1,7 +1,7 @@
 
 
 
-![](src/assets/s.png) 
+![](https://raw.githubusercontent.com/theneoterik/All-Mart/main/allMart/AllMart.png) 
 # All Mart
 
 Ecommerce Store (React& Firebase)
