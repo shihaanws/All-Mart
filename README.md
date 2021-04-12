@@ -8,7 +8,8 @@
 
 ## Ecommerce Store made with React & Firebase.
 
-# Live App : [All-Mart](https://ecomm-91dff.web.app/)
+## All Mart
+Live App : [All-Mart](https://ecomm-91dff.web.app/)
 
 
 
@@ -18,6 +19,7 @@ Tech Stack:
     - React-Router  
     - Context Api  
     - Firebase (Storage & Authentication)
+    - 
 **Make sure you are on the right branch when cloning the repo - If you need phase-1, select phase-1 and do `git clone <branch-repo-url>`**
 
 ## Develop in local machine
