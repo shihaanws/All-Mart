@@ -98,7 +98,7 @@ const Contact = () => {
         
         <button
         type="submit"
-        style={{ background: loader ? "#ccc" : " rgb(2, 2, 110)" }}
+        style={{  height:"40px", justifyContent:"center",background: loader ? "#ccc" : " rgb(2, 2, 110)" }}
       >
         Submit
       </button>
