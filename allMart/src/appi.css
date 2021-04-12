@@ -18,9 +18,10 @@ button {
 }
 
 .app1 {
-  width: 400px;
-  margin: 0 auto;
-  height: 100vh;
+  max-width: 300px;
+  margin-left: auto;
+  margin-right: auto;
+  height: 100px;
 }
 
 /* Contact.js */
