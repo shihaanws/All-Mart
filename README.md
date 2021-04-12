@@ -6,9 +6,9 @@
 </div>
 
 
-Ecommerce Store made with React & Firebase.
+## Ecommerce Store made with React & Firebase.
 
-## Live App : [All-Mart](https://ecomm-91dff.web.app/)
+# Live App : [All-Mart](https://ecomm-91dff.web.app/)
 
 
 
