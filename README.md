@@ -1,7 +1,10 @@
 
-
+<div align="center">
 
 ![](https://raw.githubusercontent.com/theneoterik/All-Mart/main/allMart/AllMart.png) 
+
+</div>
+
 # All Mart
 
 Ecommerce Store (React& Firebase)
