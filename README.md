@@ -9,7 +9,7 @@
 
 ## All Mart
 
-Ecommerce Store made with React & Firebase.
+An Ecommerce Store made with React & Firebase.
 
 Live App : [All-Mart](https://ecomm-91dff.web.app/)
 
