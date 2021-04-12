@@ -34,7 +34,7 @@ const Contact = () => {
       })
       .then(() => {
         setLoader(false);
-        alert("Your message has been submitted👍");
+        alert("Your details has been submitted👍");
       })
       .catch((error) => {
         alert(error.message);
