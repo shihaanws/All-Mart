@@ -37,7 +37,7 @@ $ git clone https://github.com/RidhikGovind/Super-Store
 $ cd allMart
 ```
 
-### Install dependacies
+### Install dependencies
 
 ```
 $ npm install 
