@@ -28,7 +28,7 @@ Tech Stack:
 ### Clone repository
 
 ```
-$ git clone https://github.com/RidhikGovind/Super-Store
+$ git clone https://github.com/theneoterik/All-Mart.git
 ```
 
 ### Navigate to directory
